@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mr0weird0guy](https://github.com/mr0weird0guy)
+- 👨‍💻 All of my projects are available at my [portfolio website](https://mango-sea-01e01e700.4.azurestaticapps.net/)
 
 - 💬 Ask me about **Web Dev, Running a Community**
 
