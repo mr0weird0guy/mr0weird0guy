@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr0weird0guy" alt="mr0weird0guy" /></a> </p>
 
-- 🔭 I’m currently working on [Conference Dashboard](https://github.com/Mys7erio/conference-dashboard-new)
+- 🔭 I’m currently working on [CAPP](https://github.com/mr0weird0guy/Capp_KT)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mr0weird0guy](https://github.com/mr0weird0guy)
 
