@@ -5,11 +5,11 @@
 <details>
   <summary> 👨🏻 More about me</summary>
 
-- 👩🏻‍🎓 Senior Computer Science undergrad, Kristu Jayanti College
+- 👩🏻‍🎓 Computer Application Graduate
 
-- 💬 I'm into **Technical Community Development, Web and App Development**
+- 💬 I'm freelancer who is into **Web/App Development and Automation**
 
-- 🌱 Giving back to the community as a **GDSC Lead**, **Computer Academy Core Team member, helping students get started**
+- 🌱 Working on growing my **Ideas** into **Reality**
 
 </details>
 
